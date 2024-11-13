@@ -3,8 +3,10 @@
 This application is created to record Well Integrity Zone 4 data.
 
 # Technology
-![image](https://github.com/user-attachments/assets/c620191a-daeb-4bc2-94c0-7171e9037b5a) 
-![image](https://github.com/user-attachments/assets/feeebc9e-ede2-4d81-9489-5dd9d90b584c)
+<div class="d-flex justify-content-around">
+<img src="https://github.com/user-attachments/assets/c620191a-daeb-4bc2-94c0-7171e9037b5a" width=25% height=25%>
+<img src="https://github.com/user-attachments/assets/feeebc9e-ede2-4d81-9489-5dd9d90b584c" width=15% height=10%>
+</div>
 
 
 # Login Page
@@ -19,6 +21,6 @@ This application is created to record Well Integrity Zone 4 data.
 
 ![image](https://github.com/user-attachments/assets/6f529479-5f63-47da-893f-9ba28147f6b5)
 
-# Another Feature undergoing maintenance...
+## Another Feature undergoing maintenance...
 
 
