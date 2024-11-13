@@ -3,10 +3,7 @@
 This application is created to record Well Integrity Zone 4 data.
 
 # Technology
-![image](https://github.com/user-attachments/assets/c620191a-daeb-4bc2-94c0-7171e9037b5a) ![image](https://github.com/user-attachments/assets/7951fc16-b708-49a7-8f3e-27a69fd0d6b9)
-
-
-
+![image](https://github.com/user-attachments/assets/c620191a-daeb-4bc2-94c0-7171e9037b5a) 
 ![image](https://github.com/user-attachments/assets/feeebc9e-ede2-4d81-9489-5dd9d90b584c)
 
 
